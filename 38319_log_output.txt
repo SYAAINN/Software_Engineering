@@ -1,0 +1,7 @@
+[SYAAINN] Tue May 20 13:14:21 2025 +0900 feat : Class Diagram 작성 afa5205
+[SYAAINN] Tue May 20 13:13:52 2025 +0900 feat : Communication Diagram 작성 b24d55c
+[SYAAINN] Tue May 20 01:09:26 2025 +0900 feat : UseCase Description 작성 e66b2d0
+[SYAAINN] Tue May 20 01:09:13 2025 +0900 feat : UseCase Diagram 작성 f93f122
+[SYAAINN] Tue May 20 01:09:01 2025 +0900 feat : Requirement List 작성 ec40a92
+[SYAAINN] Tue May 20 01:06:37 2025 +0900 Revert "feat : Requirement List 작성" 4512960
+[SYAAINN] Tue May 20 01:01:24 2025 +0900 feat : Requirement List 작성 c172c0c
